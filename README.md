@@ -4,7 +4,8 @@
 - 👀 Meu email de contato é ruv.rogerio@gmail.com
 - 🌱 Interessado em aprender novas linguagens
 - 💞️ Aprendi recentemente a usar a linguagem JavaScript e Scratch           
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 <!---
 rrogz/rrogz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

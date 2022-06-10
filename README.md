@@ -1,9 +1,10 @@
 # SOBRE MIM 
 
-- 👋 Olá, meu nome é @rrogz
+- 👋 Olá, meu nome é **@rrogz**
 - 👀 Meu email de contato é ruv.rogerio@gmail.com
 - 🌱 Interessado em aprender novas linguagens
-- 💞️ Aprendi recentemente a usar a linguagem JavaScript e Scratch
+- 💞️ Aprendi recentemente a usar a linguagem JavaScript e Scratch           
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 rrogz/rrogz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

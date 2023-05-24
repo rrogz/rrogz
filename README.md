@@ -1,6 +1,6 @@
 # SOBRE MIM 
 
-- 👋 Olá, meu nome é **@rrogz**
+- 👋 Olá, meu nome é **Rogério**
 - 👀 Meu email de contato é ruv.rogerio@gmail.com
 - 🌱 Interessado em aprender novas linguagens
 - 💞️ Aprendi recentemente a usar a linguagem JavaScript e Scratch           
